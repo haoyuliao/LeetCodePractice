@@ -23,8 +23,12 @@ class Solution(object):
 
 
 
+#print(Solution.removeElementV2("test",[0,1,2,2,3,0,4,2], 2))
+#print(Solution.removeElementV2("test",[0,1,2,3,2,0,2,4,2], 2))
+#print(Solution.removeElementV2("test",[0,1,2,3,0,4,2,2,2,2,2,2], 2))
+#print(Solution.removeElementV2("test",[0,1,2,2,3,0,2,4,2], 2))
+
 print(Solution.removeElementV2("test",[0,1,2,2,3,0,4,2], 2))
 print(Solution.removeElementV2("test",[0,1,2,3,2,0,2,4,2], 2))
 print(Solution.removeElementV2("test",[0,1,2,3,0,4,2,2,2,2,2,2], 2))
 print(Solution.removeElementV2("test",[0,1,2,2,3,0,2,4,2], 2))
-
