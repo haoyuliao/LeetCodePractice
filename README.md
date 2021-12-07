@@ -1,2 +1,2 @@
 # LeetCodePractice
-* The record of practicing codes from LeetCode (https://leetcode.com/).
+* The records of practicing codes from LeetCode (https://leetcode.com/).
